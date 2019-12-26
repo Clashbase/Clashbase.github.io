@@ -1,0 +1,56 @@
+.image{
+    background: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.nav-link{
+    color: rgba(255, 255, 255, 0.644);
+    transition: 0.25s linear;
+}
+.nav-link:hover{
+    color: white;
+}
+.inner{
+    padding-top: 200px;
+    
+}
+.link{
+    color: #83a7a5;
+}
+hr{
+    border-color: #6fb048; width: 65px;
+}
+.different{
+    background: #eef1ec;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.card{
+    background:#eef1ec; 
+    border: none;
+}
+.card-title{
+    font-size: 15px;
+    color: #0f5f5c;
+    font-weight: 700;
+}
+.card-text{
+    font-size: 14px;
+    color: #83a7a5;
+}
+.half_footer{
+    background: #6daa46;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+.original_footer{
+    padding-top: 97px;
+    padding-bottom: 97px;  
+}
+html{
+    scroll-behavior: smooth;
+}
+    
+   

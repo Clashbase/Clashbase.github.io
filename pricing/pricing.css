@@ -1,0 +1,73 @@
+.bg{
+    background: #eef1ec;
+    padding-top: 7px;
+    padding-bottom: 61px;
+}
+.nav-link{
+    color: #83a7a5;
+    transition: 0.25s linear;
+}
+.nav-link:hover{
+    color: #0f5f5c;
+}
+.start{
+    text-align: center;
+    color: #0f5f5c;
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 58px;
+}
+.under_start{
+    font-size: 15px;
+    text-align: center;
+    color: #83a7a5;
+}
+.card-title{
+    font-size: 65px;
+    text-align: center;
+    color: #0f5f5c;
+    font-weight: 700;
+}
+.card-text{
+    font-size: 14px;
+    color: #0f5f5c;
+    text-align: center;
+    font-weight: 600;
+}
+.menu{
+    padding: 5px;
+    text-align: center;
+}
+.btn-secondary,.btn-success{
+        width: 141px;
+        height: 44px;
+}
+.month{
+    font-size: 14px;
+    color: #8badab;
+    font-weight: 700;
+    text-align: center;
+}
+.limit{
+   color: #83a7a5;
+   text-align: center;
+}
+ul,li{
+    list-style: none;
+}
+.half_footer{
+    background: #e4e7e2;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.original_footer{
+    padding-top: 97px;
+    padding-bottom: 97px;
+}
+.link{
+    color: #83a7a5;
+    
+    
+}
+
+    

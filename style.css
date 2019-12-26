@@ -1,0 +1,89 @@
+html{
+    scroll-behavior: smooth;
+}
+.image{
+    background: url(images/Layer\ 14.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    }   
+.nav-link{
+    color: rgba(255, 255, 255, 0.644);
+    transition: 0.25s linear;
+}
+.nav-link:hover{
+    color: white;
+}
+
+.bg5{
+    padding-top: 25px;
+}
+.after{
+    padding-top: 82px;
+}
+.bg2{
+    background: white;
+    height: 150px;
+    z-index: 100;
+   
+}
+.part1{
+    height: 100%;
+    margin-top: 130px;
+    
+}
+.hand{
+    background: url(images/Hand.png);
+    background-size: cover;
+    height: 100vh;
+    margin-top: 24px;
+    background-position: center;
+}
+
+
+.card-title{
+    font-size: 65px;
+    text-align: center;
+    color: #0f5f5c;
+    font-weight: 700;
+}
+.card-text{
+    font-size: 14px;
+    color: #0f5f5c;
+    text-align: center;
+    font-weight: 600;
+}
+.month{
+    font-size: 14px;
+    color: #8badab;
+    font-weight: 700;
+    text-align: center;
+    
+}
+.btn{
+    width: 141px;
+    height: 44px;
+}
+.card-body{
+    padding: 25px;
+}
+.menu{
+    padding: 5px;
+}
+ul,li{
+    list-style: none;
+}
+.half_footer{
+    background: #e5e7e2;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.original_footer{
+    padding-top: 97px;
+    padding-bottom: 97px;
+}
+.link{
+    color: #83a7a5;
+    
+    
+}
